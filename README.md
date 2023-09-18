@@ -1,2 +1,6 @@
 # HELLOWORLD
-I wish I knew what I was doing here with this computer stuff and I can't wait to see what is gonna happen next.  I am more of a pen and writing on a scrap of paper kind of person with piles of notes and drawing of things I want to make, so I am kind of learning this computer stuff as I go.  So I am doing what I can to figure it out with a lots of trials and errors.  
+- 👋 Hi, I’m @RIFFDIDDYS I have made something special.
+- 👀 I’m interested in ... finding out whats next.
+- 🌱 I’m currently learning ... how to use computer and learn code
+- 💞️ I’m looking to collaborate on ... on what I should do next.
+- 📫 How to reach me ... Here I guess.
